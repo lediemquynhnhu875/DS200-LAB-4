@@ -21,9 +21,9 @@ LAB-4
 │   ├── Order_Items.csv         # Chi tiết sản phẩm trong đơn hàng (giá, phí ship...)
 │   ├── Products.csv            # Thông tin sản phẩm (danh mục, kích thước, trọng lượng)
 │   └── Order_Reviews.csv       # Đánh giá đơn hàng (điểm, bình luận, thời gian...)
-││
+│
 ├── evidence-on-terminal.docx   # Minh chứng thực hiện code (python) trên terminal
-
+│
 └── README.md                   # Tài liệu mô tả dự án (file này)
 
 ```
